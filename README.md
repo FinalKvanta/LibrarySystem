@@ -1,5 +1,12 @@
 # LibrarySystem — Полноценная серверная часть CoreWCF-сервиса
 
+## Скриншоты
+<img width="1420" height="661" alt="image" src="https://github.com/user-attachments/assets/de36b6dd-ba88-4acc-9b30-1cfc94af71de" />
+<img width="1231" height="656" alt="image" src="https://github.com/user-attachments/assets/8ccf9bcb-be58-494f-9814-a9686e7c2bdb" />
+<img width="1273" height="595" alt="image" src="https://github.com/user-attachments/assets/9241c9ba-f0e1-4307-aac9-8132a6bd779c" />
+
+
+
 ## Описание
 
 Система управления библиотекой с многослойной архитектурой (Clean Architecture), JWT-аутентификацией, ролевой авторизацией, EF Core (InMemory), Serilog-логированием, модульными тестами и поддержкой HTTP/TCP транспортов.
